@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="dummy" name="dummy">
+    <container isflex="false" displayname="Form" id="Front1" type="form"/>
+    <container isflex="false" displayname="Form" id="abtfrm1" type="form">
+        <component displayname="TextBox2" id="textbox213453007772326852" type="textbox2"/>
+    </container>
+    <container isflex="false" displayname="Form" id="chart1" type="form"/>
+    <container isflex="false" displayname="Form" id="chart2" type="form"/>
+    <container isflex="false" displayname="Form" id="chart3" type="form"/>
+    <container isflex="false" displayname="Form" id="chartShow" type="form"/>
+    <container isflex="false" displayname="Form" id="frmChart" type="form"/>
+    <container isflex="false" displayname="Form" id="frmTest2" type="form"/>
+    <container isflex="false" displayname="Form" id="frmVCharts" type="form"/>
+    <container isflex="false" displayname="Form" id="frmVchart" type="form"/>
+    <container isflex="false" displayname="Form" id="fromTest" type="form"/>
+    <container isflex="false" displayname="Form" id="main" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
